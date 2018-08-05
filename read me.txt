@@ -1,0 +1,13 @@
+
+-------------------------------HOW TO RUN "GAMING CONSOLE"-------------------------------------
+
+1. First of all, open the Programs folder, and compile and run all the C/C++ programs 
+individually to create executable files for all the codes.
+
+2. After completely doing first step, run the 'main.exe' file, which would be 
+created as a conquence of first step.
+
+3. Follow the on-screen instructions and enjoy the games.
+
+
+----------------------------------------THE END------------------------------------------------
